@@ -1,7 +1,13 @@
-# Foothill-CS22A
-This repository contains a guide to learning Javas
+# Learn-JS
+This repository contains a guide to learning JavaScript. <br>
+I DO NOT CONDONE USING THIS TO CHEAT ON THE CLASS.
 <br />
-<br />
-Please use this for reference ONLY.
-<br /><br />
-https://foothill.edu/
+## Index
+* [Variables]()
+* [Loops, Arrays, Conditions]()
+* [JSON and DOM]()
+* [Event Handling]()
+* [JQuery and Forms]()
+* [AJAX]()
+* [JQuery Animation]()
+
