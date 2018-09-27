@@ -1,2 +1,7 @@
-# learn-js
-Tutorial for the core concepts of JS, from Foothill CS22A
+# Foothill-CS22A
+This repository contains a guide to learning Javas
+<br />
+<br />
+Please use this for reference ONLY.
+<br /><br />
+https://foothill.edu/
